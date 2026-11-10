@@ -1,0 +1,6 @@
+{
+  "name": "Sadaqah Africa $10 Campaign - $50,000 Fund",
+  "description": "Empowering vulnerable communities across Africa through the $10 Sadaqah movement. Support water boreholes, sickle cell surgery, orphan care, and food distribution towards our $50,000 goal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
